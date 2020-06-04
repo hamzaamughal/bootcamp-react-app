@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-    Hello World From Hamza. <br>
+    Hello World From Hamza. 
     And This is My First React Application Using CI\CD workflows.
     </div>
   );
